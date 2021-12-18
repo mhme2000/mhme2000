@@ -1,8 +1,8 @@
 ### Olá,
 
-#### Meu nome é Marcos Henrique Mainardi Eckart, sou de Mato Grosso, tenho 20 anos e atualmente trabalho como desenvolvedor web.
+#### Meu nome é Marcos Henrique Mainardi Eckart, sou de Mato Grosso, tenho 21 anos e atualmente trabalho como desenvolvedor web.
 
-#### Principais tecnologias: NodeJS, ReactJS, TypeScript, React Native, e muito mais tecnologias desse ecossistema Javascript.
+#### Principais tecnologias: .NET C#, Angular, React, TypeScript.
 
 #### Confere lá meu Linkedin -> Marcos Eckart
 
