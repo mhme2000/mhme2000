@@ -4,5 +4,5 @@
 
 #### Principais tecnologias: .NET C#, Angular, React, TypeScript.
 
-#### Confere lá meu Linkedin -> Marcos Eckart
+#### [Meu Linkedin](https://www.linkedin.com/in/marcos-eckart/)
 
